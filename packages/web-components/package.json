@@ -28,6 +28,7 @@
     "dist/"
   ],
   "scripts": {
+    "dev": "stencil build",
     "build": "stencil build",
     "lint": "eslint ."
   },
